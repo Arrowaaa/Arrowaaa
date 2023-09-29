@@ -12,7 +12,7 @@ Apaixonado por tecnologia,Saúde e educação, e por mudar a vida das pessoas at
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arrow.a.ackles)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edilson-arrow-7b9030266/)<br/>
 <br/>![Arrowaaa GitHub stats](https://github-readme-stats.vercel.app/api?username=arrowaaa&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrowaaa&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrowaaa&theme=tokyonight)
 
 ## Tecnologias que eu uso no meu dia
 
