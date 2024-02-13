@@ -1,6 +1,6 @@
 ### Olá! Eu Sou o Edilson A.Ackles 👋
 
-Apaixonado por tecnologia,Saúde e educação, e por mudar a vida das pessoas através da programação.
+Apaixonado por Tecnologia, Saúde e Educação, e por mudar a vida das pessoas através da programação.
 
 - 💻 Estudante de Desenvolvimento Web<br/>
 - 🌱 Estudante de Tecnico em informatica<br/>
