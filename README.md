@@ -10,7 +10,7 @@ Apaixonado por Tecnologia, Saúde e Educação, e por mudar a vida das pessoas a
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@arrow.a007/featured)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arrow.a.ackles)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edilson-arrow-7b9030266/)<br/>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edilson-carlos-7b9030266/)<br/>
 <br/>![Arrowaaa GitHub stats](https://github-readme-stats.vercel.app/api?username=arrowaaa&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrowaaa&theme=tokyonight)
 
