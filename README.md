@@ -38,4 +38,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
 </h1>
+
 ![snake gif](https://github.com/arrowaaa/arrowaa/blob/output/github-contribution-grid-snake.svg)
+
+![readme](https://github.readme-stats.vercel.app/api/pin/?username=arrowaaa&repo=arrowaaa&theme=react)]([snk](https://github.com/arrowaaa/arrowaaa))
