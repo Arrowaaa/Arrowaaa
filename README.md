@@ -1,6 +1,6 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Edilson+Carlos!;" />
-</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+Meu+Nome+é+Edilson+Carlos;Eu+Tenho+24+Anos+de+idade;Eu+Estudo+Desenvolvimento+WEB;Bem-Vindo!+:%29)](https://git.io/typing-svg)
+
 
 - 💻 Estudante de Desenvolvimento Web
 - 🌱 Estudante de Tecnico em informatica 
@@ -34,7 +34,10 @@
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/arrowaaa?cardType=github&theme=dark&preferLogin=false" alt="mayannaoliveira" style="width:49%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arrowaaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="mayannaoliveira" style="width:40%">
   </div>
-</div>
+</div> <br>
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arrowaaa&bg_color=000000&color=7B68EE&line=8A2BE2&point=fff&area=true&hide_border=true)
+
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
