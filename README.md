@@ -1,5 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00498b&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+Meu+Nome+é+Edilson+Carlos;Eu+Tenho+24+Anos+de+idade;Eu+Estudo+Desenvolvimento+WEB;Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+Meu+Nome+é+Edilson+Carlos;Eu+Tenho+24+Anos+de+idade;Eu+Estudo+Desenvolvimento+WEB;Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 
 - 💻 Estudante de Desenvolvimento Web
@@ -14,7 +15,8 @@
   <a href="https://www.linkedin.com/in/edilson-carlos-7b9030266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
+## 
+
 
 <div style="display: inline_block"><br> <h2>Linguagens Utilizadas:</h2>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -43,3 +45,4 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
 </h1>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00498b&height=120&section=footer"/>
