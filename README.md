@@ -1,22 +1,19 @@
-<div align="center">    
-  <img width="100%" height="500px"src="https://github.com/user-attachments/assets/980a969c-07cc-4987-9c5f-9545987cacec" />
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00498b&height=120&section=header"/>
+<!-- <div align="center">    
+  <img width="100%" height="500px"src="https://github.com/user-attachments/assets/980a969c-07cc-4987-9c5f-9545987cacec" /> Doutor maluco
+</div> -->
+
+<!-- <div align="center">    
+  <img width="100%" height="500px"src="https://github.com/user-attachments/assets/2505a667-5362-407d-b627-fec7972aea76"> Eevees evolucion
+</div> -->
 
 <div align="center">    
-  <img width="100%" height="500px"src="https://github.com/user-attachments/assets/2505a667-5362-407d-b627-fec7972aea76">
-</div>
-
-<div align="center">    
-  <img width="100%" height="500px"src="https://github.com/user-attachments/assets/e5efd3de-7917-42fc-ad35-9e116e019452">
-</div>
-
-<div align="center">    
-  <img width="100%" height="500px"src="https://github.com/user-attachments/assets/26b9160e-aaef-4f85-af26-a4731e9f556b">
+  <img width="100%" height="350px"src="https://github.com/user-attachments/assets/26b9160e-aaef-4f85-af26-a4731e9f556b">
 </div>
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+Meu+Nome+é+Edilson+Carlos;No+Momento+Possuo+25+Anos+de+idade;Eu+Estudo+Desenvolvimento+WEB;Sejam+Bem-Vindos!+😃)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+Meu+Nome+é+Edilson+Carlos;No+Momento+Possuo+25+Anos+de+idade;Eu+Estudo+Programação;Sejam+Bem-Vindos!+😃)](https://git.io/typing-svg)
 
 <div> <h2>Minhas Redes Sociais:</h2>
   <a href="[https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://www.youtube.com/channel/UCSL9XV-ruEXjCYpxraMNzEQ)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -69,6 +66,10 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
 </h1>
+
+<div align="center">    
+  <img width="100%" height="200px"src="https://github.com/user-attachments/assets/e5efd3de-7917-42fc-ad35-9e116e019452">
+</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00498b&height=120&section=footer"/>
