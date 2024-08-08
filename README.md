@@ -1,11 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00498b&height=120&section=header"/>
+<div align="center">    
+  <img width="100%" height="500px" src="https://github.com/user-attachments/assets/980a969c-07cc-4987-9c5f-9545987cacec" />
+</div>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+Meu+Nome+é+Edilson+Carlos;No+Momento+Possuo+25+Anos+de+idade;Eu+Estudo+Desenvolvimento+WEB;Sejam+Bem-Vindos!+😃)](https://git.io/typing-svg)
-
-
-- 💻 Estudante de Desenvolvimento Web
-- 🌱 Estudante de Tecnico em informatica 
-- 📫 Contate-me: edilsoncarlos45@gmail.com
 
 <div> <h2>Minhas Redes Sociais:</h2>
   <a href="[https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://www.youtube.com/channel/UCSL9XV-ruEXjCYpxraMNzEQ)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -58,5 +56,6 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
 </h1>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00498b&height=120&section=footer"/>
