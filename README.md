@@ -19,8 +19,7 @@
   <a href = "mailto:edilsoncarlos45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/edilson-carlos-7b9030266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-## 
+<hr>
 
 <div style="display: inline_block"><br> <h2>Linguagens Utilizadas:</h2>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -38,16 +37,15 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Php](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=Php&labelColor=0D1117&textColor=0D1117)&nbsp;
   
-  ##
+<hr>
   
   ### Ferramentas:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio&logoColor=1E90FF&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-
-  ###
-  ##
+  
+<hr>
  
 <h2 align="center" >⚡Stats⚡</h2>
 <div class="row" align="center">
@@ -55,18 +53,17 @@
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/arrowaaa?cardType=github&theme=dark&preferLogin=false" alt="mayannaoliveira" style="width:49%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arrowaaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="mayannaoliveira" style="width:40%">
   </div>
-</div> <br>
+</div> <hr>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arrowaaa&bg_color=000000&color=7B68EE&line=8A2BE2&point=fff&area=true&hide_border=true)
 
 
-<h1 align="center">
+<h1 align="center"><hr>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
-</h1>
+</h1><hr>
 
 <div align="center">    
   <img width="100%" height="200px"src="https://github.com/user-attachments/assets/e5efd3de-7917-42fc-ad35-9e116e019452">
-</div>
-
+</div><hr>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00498b&height=120&section=footer"/>
