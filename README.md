@@ -1,6 +1,19 @@
 <div align="center">    
-  <img width="100%" src="https://github.com/user-attachments/assets/980a969c-07cc-4987-9c5f-9545987cacec" />
+  <img width="100%" height="500px"src="https://github.com/user-attachments/assets/980a969c-07cc-4987-9c5f-9545987cacec" />
 </div>
+
+<div align="center">    
+  <img width="100%" height="500px"src="https://github.com/user-attachments/assets/2505a667-5362-407d-b627-fec7972aea76">
+</div>
+
+<div align="center">    
+  <img width="100%" height="500px"src="https://github.com/user-attachments/assets/e5efd3de-7917-42fc-ad35-9e116e019452">
+</div>
+
+<div align="center">    
+  <img width="100%" height="500px"src="https://github.com/user-attachments/assets/26b9160e-aaef-4f85-af26-a4731e9f556b">
+</div>
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+Meu+Nome+é+Edilson+Carlos;No+Momento+Possuo+25+Anos+de+idade;Eu+Estudo+Desenvolvimento+WEB;Sejam+Bem-Vindos!+😃)](https://git.io/typing-svg)
