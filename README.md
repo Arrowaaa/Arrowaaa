@@ -11,7 +11,7 @@
 </div><hr>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+Meu+Nome+é+Edilson+Carlos;No+Momento+Possuo+25+Anos+de+idade;Eu+Estudo+Programação;Sejam+Bem-Vindos!+😃)](https://git.io/typing-svg)
-
+<hr>
 <div> <h2>Minhas Redes Sociais:</h2>
   <a href="[https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://www.youtube.com/channel/UCSL9XV-ruEXjCYpxraMNzEQ)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/arrow.a.ackles" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -20,7 +20,6 @@
   <a href="https://www.linkedin.com/in/edilson-carlos-7b9030266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <hr>
-
 <div style="display: inline_block"><br> <h2>Linguagens Utilizadas:</h2>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -47,13 +46,13 @@
   
 <hr>
  
-<h2 align="center" >⚡Stats⚡</h2>
+<h2 align="center" >⚡Stats⚡</h2><hr>
 <div class="row" align="center">
   <div class="column">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/arrowaaa?cardType=github&theme=dark&preferLogin=false" alt="mayannaoliveira" style="width:49%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arrowaaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="mayannaoliveira" style="width:40%">
   </div>
-</div> <hr>
+</div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arrowaaa&bg_color=000000&color=7B68EE&line=8A2BE2&point=fff&area=true&hide_border=true)
 
