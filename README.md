@@ -1,14 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00498b&height=120&section=header"/>
-<!-- <div align="center">    
+<div align="center">    
   <img width="100%" height="500px"src="https://github.com/user-attachments/assets/980a969c-07cc-4987-9c5f-9545987cacec" /> Doutor maluco
-</div> -->
+</div> 
 <!-- <div align="center">    
   <img width="100%" height="500px"src="https://github.com/user-attachments/assets/2505a667-5362-407d-b627-fec7972aea76"> Eevees evolucion
 </div> -->
-
+<!--
 <div align="center">    
   <img width="100%" height="300px"src="https://github.com/user-attachments/assets/26b9160e-aaef-4f85-af26-a4731e9f556b">
-</div><hr>
+</div><hr>-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+Meu+Nome+é+Edilson+Carlos;No+Momento+Possuo+25+Anos+de+idade;Eu+Estudo+Programação;Sejam+Bem-Vindos!+😃)](https://git.io/typing-svg)
 <hr>
