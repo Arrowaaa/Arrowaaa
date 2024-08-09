@@ -20,6 +20,17 @@
   <a href="https://www.linkedin.com/in/edilson-carlos-7b9030266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <hr>
+<div align="center">
+  <h2>Meu Site: </h2>
+  <div style="position: relative; display: inline-block;">
+    <img src="https://github.com/user-attachments/assets/34872a0a-2bef-4c90-abf6-06e11d72e267" alt="Favicon" style="position: absolute; top: 100%; left: 50%; transform: translate(-50%, -50%); width: 36px; height: 36px; border-radius: 50%; background: white; padding: 2px;">
+    <a href="https://ventqui.paulowh.com/" target="_blank">
+      <img src="https://img.shields.io/badge/- ven't qui-703900?style=for-the-badge&logo=&logoColor=white" alt="ven't qui Badge" style="display: block;">
+    </a>
+  </div>
+</div>
+
+<hr>
 
 <div style="display: inline_block"><br> <h2>Linguagens Utilizadas:</h2>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,9 +40,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-<br><div align="end">
-  <a href="https:/ventqui.paulowh.com" target="_blank"><img src="https://img.shields.io/badge/- ven't qui-703900?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
-</div>
+<br>
 
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
