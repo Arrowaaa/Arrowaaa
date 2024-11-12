@@ -11,7 +11,7 @@
   <img width="100%" height="300px"src="https://github.com/user-attachments/assets/26b9160e-aaef-4f85-af26-a4731e9f556b">
 </div><hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+Meu+Nome+é+Edilson+Ackles;No+Momento+Possuo+25+Anos+de+idade;Eu+Estudo+Programação;Sejam+Bem-Vindos!+😃)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+Meu+Nome+é+Arrow+Ackles;No+Momento+Possuo+25+Anos+de+idade;Eu+Estudo+Programação;Sejam+Bem-Vindos!+😃)](https://git.io/typing-svg)
 <hr>
 <div> <h2>Minhas Redes Sociais:</h2>
   <a href="[https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://www.youtube.com/channel/UCSL9XV-ruEXjCYpxraMNzEQ)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
